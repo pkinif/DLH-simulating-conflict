@@ -1,3 +1,3 @@
 # script.R
-greeting <- "Hello, R developers!"
+greeting <- "Hello, amazing R developers!"
 print(greeting)
