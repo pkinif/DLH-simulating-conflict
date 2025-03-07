@@ -1,6 +1,6 @@
 # square_numbers.R
-square_numbers <- function(x, y) {
-    return(c(x^2, y^2))
+square_number <- function(x) {
+    return(c(x^2))
 }
 
-square_numbers(3, 4) 
+square_number(5) 
