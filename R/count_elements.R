@@ -1,0 +1,1 @@
+count_elements(c(1, 2, 3))
