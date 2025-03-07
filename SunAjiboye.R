@@ -11,3 +11,5 @@ get_your_hands_dirty <- function(student_name = 'Sun_Ajiboye'){
 
 result0 <- get_your_hands_dirty(8/2)
 print(result0)
+result4 <- divide_numbers(8, 2) 
+print(result0)
